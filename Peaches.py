@@ -1,21 +1,40 @@
-print("Hello-World")
+name = "Nic"
 
-print("horses")
+message = f"Hello {name}"
 
-print("cows jumping over the moon")
+print(message)
 
-print("icecream")
+print(message)
 
-print("cats, and hats")
+print(message)
 
-print("it's raining cats and dogs")
+# print("horses")
+
+# print("cows jumping over the moon")
+
+# print("icecream")
+
+# print("cats, and hats")
+
+# print("it's raining cats and dogs")
       
-print("houses on chicken feet")
+# print("houses on chicken feet")
 
-print("cats are better then birds")
+# print("cats are better then birds")
 
-print("flames and candle, wax ro") #the privious statement will still exicute
+# print("flames and candle, wax ro") #the privious statement will still exicute
 
 # print is a function that tskes in a string and "prints" it to the console window
+
+animal = "Wolves" # assigning the string value of "wolves" to to variable "animals".
+
+
+animal2 = "sheep"
+
+haukiu = f"{animal} love to eat {animal2}"
+
+print(haukiu)
+
+
 
 
